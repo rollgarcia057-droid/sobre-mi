@@ -45,6 +45,8 @@ Soy estudiante del programa **Análisis y Desarrollo de Software (ADSO)** del SE
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
 | [sobre-mi](https://github.com/rollgarcia057-droid/sobre-mi) | Mi presentación personal en GitHub | ✅ Activo |
+| [mis-metas](https://github.com/rollgarcia057-droid/mis-metas) | Registro de mis metas a corto, mediano y largo plazo | ✅ Activo |
+| [mi-receta](https://github.com/rollgarcia057-droid/mi-receta) | Mi receta favorita paso a paso | ✅ Activo |
 | _Próximamente_ | Primer proyecto en Python | 🚧 En camino |
 
 ## 🎓 Formación
